@@ -9234,6 +9234,13 @@ textarea.form-control {
     color: #fff; }
   .heading-section.heading-section-white p {
     color: rgba(255, 255, 255, 0.9); }
+.header--button span {
+  display: inline-block;
+  width: 13px;
+  height: 8px;
+  margin-left: 10px;
+  background-image: url('./assets/icons/down-arrow.svg');
+}
 
 .img,
 .blog-img,
